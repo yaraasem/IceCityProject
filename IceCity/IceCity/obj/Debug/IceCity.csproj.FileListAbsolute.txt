@@ -1,0 +1,7 @@
+D:\vs projects\IceCity\IceCity\bin\Debug\IceCity.exe.config
+D:\vs projects\IceCity\IceCity\bin\Debug\IceCity.exe
+D:\vs projects\IceCity\IceCity\bin\Debug\IceCity.pdb
+D:\vs projects\IceCity\IceCity\obj\Debug\IceCity.csproj.AssemblyReference.cache
+D:\vs projects\IceCity\IceCity\obj\Debug\IceCity.csproj.CoreCompileInputs.cache
+D:\vs projects\IceCity\IceCity\obj\Debug\IceCity.exe
+D:\vs projects\IceCity\IceCity\obj\Debug\IceCity.pdb
