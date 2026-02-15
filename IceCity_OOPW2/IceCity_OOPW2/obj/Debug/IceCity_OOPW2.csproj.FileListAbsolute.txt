@@ -1,0 +1,8 @@
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\bin\Debug\IceCity_OOPW2.exe.config
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\bin\Debug\IceCity_OOPW2.exe
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\bin\Debug\IceCity_OOPW2.pdb
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\obj\Debug\IceCity_OOPW2.csproj.AssemblyReference.cache
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\obj\Debug\IceCity_OOPW2.csproj.CoreCompileInputs.cache
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\obj\Debug\IceCity_OOPW2.exe
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\obj\Debug\IceCity_OOPW2.pdb
+D:\vs projects\IceCity_OOPW2\IceCity_OOPW2\obj\Debug\IceCity_OOPW2.exe.config
