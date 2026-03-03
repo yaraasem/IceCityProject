@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs projects\\Ice_City_W3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\citycenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\citycenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\heaterfieldexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\heaterfieldexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\heatereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\heatereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\heatertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\heatertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\dailyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\dailyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|d:\\vs projects\\ice_city_w3\\ice_city_w3\\intextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CEC89E-603E-45FA-9B91-77F13038F86B}|Ice_City_W3\\Ice_City_W3.csproj|solutionrelative:ice_city_w3\\intextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Report.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\Report.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Report.cs",
+              "RelativeToolTip": "Ice_City_W3\\Report.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:15:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\House.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\House.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\House.cs",
+              "RelativeToolTip": "Ice_City_W3\\House.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T23:06:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Heater.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Heater.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\Heater.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Heater.cs",
+              "RelativeToolTip": "Ice_City_W3\\Heater.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:43:46.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Program.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\Program.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Program.cs",
+              "RelativeToolTip": "Ice_City_W3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:31:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\WeatherService.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\WeatherService.cs",
+              "RelativeToolTip": "Ice_City_W3\\WeatherService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv04AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:24:20.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Service1.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\Service1.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Service1.cs",
+              "RelativeToolTip": "Ice_City_W3\\Service1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:12:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityCenterService.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\CityCenterService.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\CityCenterService.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\CityCenterService.cs",
+              "RelativeToolTip": "Ice_City_W3\\CityCenterService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:59:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Owner.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\Owner.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\Owner.cs",
+              "RelativeToolTip": "Ice_City_W3\\Owner.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:07:13.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\PrintService.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\PrintService.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\PrintService.cs",
+              "RelativeToolTip": "Ice_City_W3\\PrintService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:25:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeaterFieldExeption.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterFieldExeption.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\HeaterFieldExeption.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterFieldExeption.cs",
+              "RelativeToolTip": "Ice_City_W3\\HeaterFieldExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:14:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HeaterEventArgs.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterEventArgs.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\HeaterEventArgs.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterEventArgs.cs",
+              "RelativeToolTip": "Ice_City_W3\\HeaterEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:40:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeaterTypes.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterTypes.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\HeaterTypes.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\HeaterTypes.cs",
+              "RelativeToolTip": "Ice_City_W3\\HeaterTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:36:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DailyUsage.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\DailyUsage.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\DailyUsage.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\DailyUsage.cs",
+              "RelativeToolTip": "Ice_City_W3\\DailyUsage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:37:55.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntExtensionMethods.cs",
+              "DocumentMoniker": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\IntExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Ice_City_W3\\IntExtensionMethods.cs",
+              "ToolTip": "D:\\vs projects\\Ice_City_W3\\Ice_City_W3\\IntExtensionMethods.cs",
+              "RelativeToolTip": "Ice_City_W3\\IntExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:57:28.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
